@@ -11,8 +11,8 @@ public class PlayerController : MonoBehaviour
     }
         public GameObject projectilePrefab;
         public float horizontalInput;
-        public float speed = 10.0f;
-        public float xRange = 10;
+        public float speed = 30.0f;
+        public float xRange = 20;
     // Update is called once per frame
     void Update()
     {   // Keep the player in bounds

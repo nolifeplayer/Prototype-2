@@ -19,5 +19,12 @@ public class DetectCollisions : MonoBehaviour
     {
         Destroy(gameObject);
         Destroy(other.gameObject);
+    if (other.CompareTag("Player"))
+    {
+        FindObjectOfType<GameManager>().GameOver();
     }
+
+    
+}
+
 }

@@ -28,3 +28,103 @@ C# parse time         : 195ms
 candidates check time : 23ms
 console write time    : 0ms
 
+[api-updater (non-obsolete-error-filter)] 4/1/2026 12:10:06 PM : Starting /private/var/folders/n1/vknbtgjx2csfq2sv2zfqff3h0000gv/T/AppTranslocation/2D904772-6982-41BB-91F0-F4E8C5CA1BAB/d/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 436.944ms
+moved types parse time: 39ms
+candidates parse time : 0ms
+C# parse time         : 196ms
+candidates check time : 22ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/1/2026 12:16:46 PM : Starting /private/var/folders/n1/vknbtgjx2csfq2sv2zfqff3h0000gv/T/AppTranslocation/2D904772-6982-41BB-91F0-F4E8C5CA1BAB/d/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 37.538ms
+moved types parse time: 34ms
+candidates parse time : 0ms
+C# parse time         : 160ms
+candidates check time : 22ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/1/2026 12:17:01 PM : Starting /private/var/folders/n1/vknbtgjx2csfq2sv2zfqff3h0000gv/T/AppTranslocation/2D904772-6982-41BB-91F0-F4E8C5CA1BAB/d/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 36.812ms
+moved types parse time: 35ms
+candidates parse time : 0ms
+C# parse time         : 160ms
+candidates check time : 22ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/13/2026 12:13:11 PM : Starting /private/var/folders/n1/vknbtgjx2csfq2sv2zfqff3h0000gv/T/AppTranslocation/F6297DA0-2AB0-4C29-B24C-BE1C124424F3/d/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 422.982ms
+moved types parse time: 37ms
+candidates parse time : 0ms
+C# parse time         : 192ms
+candidates check time : 25ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/13/2026 12:19:10 PM : Starting /private/var/folders/n1/vknbtgjx2csfq2sv2zfqff3h0000gv/T/AppTranslocation/F6297DA0-2AB0-4C29-B24C-BE1C124424F3/d/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 36.899ms
+moved types parse time: 34ms
+candidates parse time : 0ms
+C# parse time         : 158ms
+candidates check time : 21ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/14/2026 11:59:51 AM : Starting /private/var/folders/n1/vknbtgjx2csfq2sv2zfqff3h0000gv/T/AppTranslocation/0461967A-EFEF-4A0D-B6D7-24E2D0D2D3F2/d/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 98.505ms
+moved types parse time: 37ms
+candidates parse time : 0ms
+C# parse time         : 189ms
+candidates check time : 22ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/14/2026 12:22:37 PM : Starting /private/var/folders/n1/vknbtgjx2csfq2sv2zfqff3h0000gv/T/AppTranslocation/0461967A-EFEF-4A0D-B6D7-24E2D0D2D3F2/d/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 41.409ms
+moved types parse time: 34ms
+candidates parse time : 0ms
+C# parse time         : 156ms
+candidates check time : 25ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/15/2026 12:11:17 PM : Starting /private/var/folders/n1/vknbtgjx2csfq2sv2zfqff3h0000gv/T/AppTranslocation/2BF99BB6-EDD7-4FB9-A07F-709D38EA39F5/d/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 95.39ms
+moved types parse time: 36ms
+candidates parse time : 0ms
+C# parse time         : 174ms
+candidates check time : 21ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/15/2026 12:12:14 PM : Starting /private/var/folders/n1/vknbtgjx2csfq2sv2zfqff3h0000gv/T/AppTranslocation/2BF99BB6-EDD7-4FB9-A07F-709D38EA39F5/d/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 39.908ms
+moved types parse time: 35ms
+candidates parse time : 0ms
+C# parse time         : 143ms
+candidates check time : 20ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/15/2026 12:15:11 PM : Starting /private/var/folders/n1/vknbtgjx2csfq2sv2zfqff3h0000gv/T/AppTranslocation/2BF99BB6-EDD7-4FB9-A07F-709D38EA39F5/d/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 40.857ms
+moved types parse time: 34ms
+candidates parse time : 0ms
+C# parse time         : 144ms
+candidates check time : 20ms
+console write time    : 0ms
+

@@ -4,17 +4,27 @@ using UnityEngine;
 
 public class SpawnManager : MonoBehaviour
 {
+    
+    public GameObject[] animalPrefabs; 
+    
+    private float spawnRangeX = 20;
+    
+    public float sideSpawnX = 10.0f;
+    public float sideSpawnMinZ = -13.0f;
+    public float sideSpawnMaxZ = 23.0f;
+    
+    
+    private float spawnPosZ = 20;
+    private float startDelay = 2;
+    private float spawnInterval = 1.5f;
+
     // Start is called before the first frame update
     void Start()
     {
         InvokeRepeating("SpawnRandomAnimal", startDelay, spawnInterval);
+        InvokeRepeating("SpawnLeftAnimal", startDelay, spawnInterval);
+        InvokeRepeating("SpawnRightAnimal", startDelay, spawnInterval);
     }
-    public GameObject[] animalPrefabs;
-    private float spawnRangeX = 20;
-    private float spawnPosZ = 20;
-    private float startDelay = 2;
-    private float spawnInterval = 1.5f;
-    
     // Update is called once per frame
     void Update()
     {
@@ -29,4 +39,17 @@ public class SpawnManager : MonoBehaviour
     Instantiate(animalPrefabs[animalIndex], spawnPos, animalPrefabs[animalIndex].transform.rotation);
     }
     
+    void SpawnLeftAnimal() {
+    int animalIndex = Random.Range(0, animalPrefabs.Length);
+    Vector3 spawnPos = new Vector3(-sideSpawnX, 0, Random.Range(sideSpawnMinZ, sideSpawnMaxZ));
+    Vector3 rotation = new Vector3(0, 90, 0); // Rotate to face right
+    Instantiate(animalPrefabs[animalIndex], spawnPos, Quaternion.Euler(rotation));
+}
+
+void SpawnRightAnimal() {
+    int animalIndex = Random.Range(0, animalPrefabs.Length);
+    Vector3 spawnPos = new Vector3(sideSpawnX, 0, Random.Range(sideSpawnMinZ, sideSpawnMaxZ));
+    Vector3 rotation = new Vector3(0, -90, 0); // Rotate to face left
+    Instantiate(animalPrefabs[animalIndex], spawnPos, Quaternion.Euler(rotation));
+}
 }
